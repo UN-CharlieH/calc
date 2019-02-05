@@ -5,7 +5,7 @@
 /* cc -O calc.c -lm -o calc                        (Compile command) */
 
 
-double main(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
    int i;
    double result;

@@ -156,8 +156,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="calc.c" />
-    <ClCompile Include="parseandcalculate.c" />
+    <ClCompile Include="calc.cpp" />
+    <ClCompile Include="parseandcalculate.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="calc.h" />
